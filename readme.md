@@ -11,6 +11,6 @@ Original Project Link: [Original YelpCamp Link](https://github.com/nax3t/yelp-ca
 2. Make to do look more awesome
 
 ### For Contributors
-Before you even plan to contribute, read this: [Contributer's Guide](https://github.com/primeninja/yelp-camp-advanced/blob/master/readme.md)
+Before you even plan to contribute, read this: [Contributer's Guide](https://github.com/primeninja/yelp-camp-advanced/blob/master/contribute.md)
 
 
