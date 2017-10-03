@@ -2,7 +2,11 @@
 
 Without proper rules this repo will endup being peice of cr*p. We want to build a awesome project not cr-word.
 
-**I don't know if I can emphasize this enough! Keep your code clean, well commented and maintainable. Maintainability is everything!!!!**
+**I don't know if I can emphasize this enough!**
+<br>
+**Keep your code clean, well commented and maintainable.**
+<br>
+**Maintainability is everything!**
 
 
 ## What Can You Contribute? 
