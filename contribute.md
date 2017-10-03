@@ -2,6 +2,19 @@
 
 Without proper rules this repo will endup being peice of cr*p. We want to build a awesome project not cr-word.
 
+**I don't know if I can emphasize this enough, but keep you code clean, well commented and maintainable.**
+**Maintainability is everythiiiingg!!!!**
+
+
+## What Can You Contribute? 
+1. Check out project [README](https://github.com/primeninja/yelp-camp-advanced/blob/master/readme.md) for list of **TODO**s under TODO's section if any. If you can accomplish these todo's without bugs and awesome code conventions and login. Your pull request will be pulled for sure.
+2. Documentation may not look like much but it accounts to 70% of success of repo. Any body can code, not many can add proper documentation to it. 
+
+If you are documenting out code, adding comments, adding how to instructions in readme. You'll recieve a special thanks from me for sure!!
+3. Code elites! Please do help us optimise! 
+
+
+
 
 #### Some rules to follow
 1. This is a software repo not school and you are / going to be a professional dev. So you gotta follow some rule, no excuses    
