@@ -7,9 +7,8 @@ Refactored By: [Ian Schoonover / Nax3t](https://github.com/nax3t)<br>
 Original Project Link: [Original YelpCamp Link](https://github.com/nax3t/yelp-camp-refactored)
 
 ## To Do's section
-Add installation instructions for installing in local environment
+1. Add installation instructions for installing in local environment
 
-<br>
 ### For Contributors
 Before you even plan to contribute, read this: [Contributer's Guide](https://github.com/primeninja/yelp-camp-advanced/blob/master/readme.md)
 
