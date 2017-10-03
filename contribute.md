@@ -37,8 +37,9 @@ If you are documenting out code, adding comments, adding how to instructions in 
     ++ravagers;
 ```
 Write what your code accomplishes. We are NOT asking you to explain us javascript syntax, most probably we know it better than you do.
-
+<br>
 5. Try not to use bleeding features of ES5 or ES6, this will break backwards compatibility.
+<br>
 6. Add a proper thought out title and description to your pull request. 
 
 **I am honored that you felt like contributing!**
