@@ -38,7 +38,7 @@ If you are documenting out code, adding comments, adding how to instructions in 
 ```
 Write what your code accomplishes. We are NOT asking you to explain us javascript syntax, most probably we know it better than you do.
 <br>
-5. Try not to use bleeding features of ES5 or ES6, this will break backwards compatibility.
+5. Try not to use bleeding edge features of ES5 or ES6, this will break backwards compatibility. You are here to improve code not show off!
 <br>
 6. Add a proper thought out title and description to your pull request. 
 
