@@ -38,7 +38,7 @@ Write what your code accomplishes. We are NOT asking you to explain us javascrip
 5. Try not to use bleeding features of ES5 or ES6, this will break backwards compatibility.
 6. Add a proper thought out title and description to your pull request. 
 
-
+**I am honored that you felt like contributing!**
 
 
 
