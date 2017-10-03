@@ -36,8 +36,8 @@ If you are documenting out code, adding comments, adding how to instructions in 
     // add more ravagers to current game scene.
     ++ravagers;
 ```
-
 Write what your code accomplishes. We are NOT asking you to explain us javascript syntax, most probably we know it better than you do.
+
 5. Try not to use bleeding features of ES5 or ES6, this will break backwards compatibility.
 6. Add a proper thought out title and description to your pull request. 
 
